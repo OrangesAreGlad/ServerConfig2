@@ -93,6 +93,7 @@ powers:
 - /disguiseviewself
 - /healing
 - /healing <player>
+- /tp <player>
 run: 6
 speech: Surf's up, dude!
 trail: [
