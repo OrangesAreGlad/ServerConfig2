@@ -35,5 +35,8 @@ powers:
 - /normalsize
 - /carryplayer <player>
 - /dropplayer
+- /tp <player>
+- /empower <player>
+- /disguise
 trail: [
   ]
